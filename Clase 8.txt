@@ -1,1 +1,3 @@
-Un sencillo archivo de texto
+Un sencillo archivo de texto. 
+
+Venga, yo había puesto más texto aquí.
